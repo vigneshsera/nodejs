@@ -5,6 +5,8 @@
   "main": "helloworld.js",
   "dependencies": {
     "formidable": "^2.0.1",
+    "mangodb": "^1.0.0",
+    "mongodb": "^4.2.2",
     "nodemailer": "^6.7.2",
     "upper-case": "^2.0.2"
   },
@@ -13,7 +15,6 @@
   },
   "author": "vigneshsera",
   "license": "ISC",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vigneshsera/nodejs.git"
